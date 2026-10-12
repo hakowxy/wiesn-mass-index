@@ -2,9 +2,9 @@
 
 The Economist has its Big Mac Index. Munich has the **Maß**, the one-litre beer mug at the Oktoberfest. This project tracks its price since 1985 against inflation, wages and the rest of the festival menu.
 
-**[Open the interactive dashboard](https://xinyangma18.github.io/wiesn-mass-index/)** · **[Read the full analysis](notebooks/analysis.ipynb)**
+**[Open the interactive dashboard](https://hakowxy.github.io/wiesn-mass-index/)** · **[Read the full analysis](notebooks/analysis.ipynb)**
 
-[![Dashboard preview](images/00_dashboard.png)](https://xinyangma18.github.io/wiesn-mass-index/)
+[![Dashboard preview](images/00_dashboard.png)](https://hakowxy.github.io/wiesn-mass-index/)
 
 The dashboard has a **time machine** (any year's Maß in today's money), a **Wiesn bill builder** (order from the menu and compare 2025 with 2018) and a **20 € countdown**.
 
@@ -59,4 +59,4 @@ python scripts/build_dashboard_data.py
 
 ---
 
-Made by [Xinyang Ma](https://github.com/xinyangma18) · [LinkedIn](https://www.linkedin.com/in/xinyang-m-122844288/)
+Made by [Xinyang Ma](https://github.com/hakowxy) · [LinkedIn](https://www.linkedin.com/in/xinyang-m-122844288/)
