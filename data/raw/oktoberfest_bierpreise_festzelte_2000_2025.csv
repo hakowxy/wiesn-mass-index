@@ -1,0 +1,270 @@
+﻿jahr,zelt,preis
+2000,Bräurosl,6.29
+2000,Löwenbräu,6.34
+2000,Hofbräuhaus,6.34
+2000,Hacker,6.39
+2000,Armbrustschützen,6.39
+2000,Augustiner,6.29
+2000,Winzerer Fähndl,6.44
+2000,Schottenhamel,6.39
+2000,Ochsenbraterei,6.29
+2000,Fischer Vroni,6.39
+2000,Sportschützen,6.34
+2001,Bräurosl,6.39
+2001,Löwenbräu,NA
+2001,Hofbräuhaus,6.47
+2001,Hacker,6.54
+2001,Armbrustschützen,6.49
+2001,Augustiner,6.39
+2001,Winzerer Fähndl,6.44
+2001,Schottenhamel,6.49
+2001,Ochsenbraterei,6.47
+2001,Fischer Vroni,6.49
+2001,Sportschützen,6.49
+2002,Bräurosl,6.7
+2002,Löwenbräu,6.8
+2002,Hofbräuhaus,6.75
+2002,Hacker,6.8
+2002,Armbrustschützen,6.75
+2002,Augustiner,6.65
+2002,Winzerer Fähndl,6.7
+2002,Schottenhamel,6.8
+2002,Ochsenbraterei,6.75
+2002,Fischer Vroni,6.8
+2002,Sportschützen,6.75
+2003,Bräurosl,6.7
+2003,Löwenbräu,NA
+2003,Hofbräuhaus,6.75
+2003,Hacker,6.8
+2003,Armbrustschützen,6.75
+2003,Augustiner,6.65
+2003,Winzerer Fähndl,6.7
+2003,Schottenhamel,6.8
+2003,Ochsenbraterei,6.75
+2003,Fischer Vroni,6.8
+2003,Sportschützen,6.75
+2004,Bräurosl,6.95
+2004,Löwenbräu,7.1
+2004,Hofbräuhaus,6.95
+2004,Hacker,7.1
+2004,Armbrustschützen,7.0
+2004,Augustiner,6.95
+2004,Winzerer Fähndl,6.95
+2004,Schottenhamel,7.1
+2004,Ochsenbraterei,7.1
+2004,Fischer Vroni,6.95
+2004,Sportschützen,7.05
+2005,Bräurosl,7.15
+2005,Löwenbräu,7.25
+2005,Hofbräuhaus,7.1
+2005,Hacker,7.1
+2005,Armbrustschützen,7.2
+2005,Augustiner,7.1
+2005,Winzerer Fähndl,7.1
+2005,Schottenhamel,7.25
+2005,Ochsenbraterei,7.1
+2005,Fischer Vroni,7.1
+2005,Sportschützen,7.2
+2006,Bräurosl,7.4
+2006,Löwenbräu,7.45
+2006,Hofbräuhaus,7.4
+2006,Hacker,7.4
+2006,Armbrustschützen,7.45
+2006,Augustiner,7.35
+2006,Winzerer Fähndl,7.4
+2006,Schottenhamel,7.45
+2006,Ochsenbraterei,7.4
+2006,Fischer Vroni,7.4
+2006,Sportschützen,7.5
+2009,Bräurosl,8.55
+2009,Löwenbräu,8.4
+2009,Hofbräuhaus,8.55
+2009,Hacker,8.6
+2009,Armbrustschützen,8.55
+2009,Augustiner,8.5
+2009,Winzerer Fähndl,NA
+2009,Schottenhamel,8.6
+2009,Ochsenbraterei,8.4
+2009,Fischer Vroni,8.6
+2009,Sportschützen,8.5
+2010,Hippodrom,8.8
+2010,Bräurosl,8.8
+2010,Löwenbräu,NA
+2010,Hofbräuhaus,8.8
+2010,Hacker,8.8
+2010,Armbrustschützen,8.75
+2010,Augustiner,8.7
+2010,Winzerer Fähndl,8.8
+2010,Schottenhamel,8.8
+2010,Ochsenbraterei,8.75
+2010,Fischer Vroni,8.9
+2010,Schützen-Festzelt,8.8
+2011,Hippodrom,9.1
+2011,Bräurosl,9.1
+2011,Löwenbräu,9.2
+2011,HofbräuFestzelt,8.95
+2011,Hackerbräu-Festzelt,9.1
+2011,Armbrustschützen,9
+2011,Augustiner,NA
+2011,Paulanerbräu Winzerer Fähndl,9.1
+2011,Schottenhamel,9.2
+2011,Ochsenbraterei,8.95
+2011,Fischer Vroni,9.1
+2011,Schützen-Festzelt,9.2
+2011,Käfer Wies´n Schänke,9.1
+2012,Hippodrom,9.4
+2012,Bräurosl,9.4
+2012,Löwenbräu,9.5
+2012,Hofbräufestzelt,9.35
+2012,Hackerbräu-Festzelt,9.4
+2012,Armbrustschützen,9.35
+2012,Augustiner,9.3
+2012,Paulanerbräu Winzerer Fähndl,9.4
+2012,Schottenhamel,9.5
+2012,Ochsenbraterei,9.2
+2012,Fischer Vroni,9.5
+2012,Schützen-Festzelt,9.5
+2012,Käfer Wies´n Schänke,9.5
+2013,Hippodrom,9.8
+2013,Bräurosl,9.8
+2013,Löwenbräu,9.85
+2013,HofbräuFestzelt,9.75
+2013,Hackerbräu-Festzelt,9.8
+2013,Armbrustschützen,9.85
+2013,Augustiner,9.6
+2013,Paulanerbräu Winzerer Fähndl,9.8
+2013,Schottenhamel,9.85
+2013,Ochsenbraterei,9.7
+2013,Fischer Vroni,9.8
+2013,Schützen-Festzelt,9.8
+2013,Käfer Wies´n Schänke,9.8
+2014,Marstall,9.95
+2014,Bräurosl,9.95
+2014,Löwenbräu,10.1
+2014,Hofbräu-Festzelt,9.95
+2014,Hackerbräu-Festzelt,9.95
+2014,Armbrustschützen,10.05
+2014,Augustiner,9.8
+2014,Paulanerbräu Winzerer Fähndl,9.95
+2014,Schottenhamel,10.1
+2014,Ochsenbraterei,9.9
+2014,Fischer Vroni,10
+2014,Schützen-Festzelt,10.05
+2014,Käfer Wies´n Schänke,10
+2015,Marstall,10.3
+2015,Bräurosl,10.3
+2015,Löwenbräu,10.35
+2015,Hofbräu-Festzelt,10.3
+2015,Hackerbräu-Festzelt,10.3
+2015,Armbrustschützen,10.25
+2015,Augustiner,10.1
+2015,Paulanerbräu Winzerer Fähndl,10.3
+2015,Schottenhamel,10.25
+2015,Ochsenbraterei,10.2
+2015,Fischer Vroni,10.3
+2015,Schützen-Festzelt,10.3
+2015,Käfer Wies´n Schänke,10.3
+2016,Marstall,10.6
+2016,Bräurosl,10.6
+2016,Löwenbräu,10.6
+2016,Hofbräu-Festzelt,10.6
+2016,Hackerbräu-Festzelt,10.6
+2016,Armbrustschützen,10.55
+2016,Augustiner,10.4
+2016,Paulanerbräu Winzerer Fähndl,10.6
+2016,Schottenhamel,10.55
+2016,Ochsenbraterei,10.45
+2016,Fischer Vroni,10.6
+2016,Schützen-Festzelt,10.6
+2016,Käfer Wies´n Schänke,10.6
+2017,Marstall,10.9
+2017,Bräurosl,10.9
+2017,Löwenbräu,10.8
+2017,Hofbräu-Festzelt,10.9
+2017,Hackerbräu-Festzelt,10.9
+2017,Armbrustschützen,10.85
+2017,Augustiner,10.7
+2017,Paulanerbräu Winzerer Fähndl,10.95
+2017,Schottenhamel,10.95
+2017,Ochsenbraterei,10.7
+2017,Fischer Vroni,10.95
+2017,Schützen-Festzelt,10.9
+2017,Käfer Wies´n Schänke,10.9
+2018,Marstall,11.5
+2018,Bräurosl,11.4
+2018,Löwenbräu,10.8
+2018,Hofbräu-Festzelt,11.4
+2018,Hackerbräu-Festzelt,11.4
+2018,Armbrustschützen,11.4
+2018,Augustiner,11.1
+2018,Paulanerbräu Winzerer Fähndl,11.5
+2018,Schottenhamel,10.95
+2018,Ochsenbraterei,11.2
+2018,Fischer Vroni,11.35
+2018,Schützen-Festzelt,11.4
+2018,Käfer Wies´n Schänke,11.5
+2019,Marstall,11.8
+2019,Bräurosl,11.8
+2019,Löwenbräu,11.8
+2019,Hofbräu-Festzelt,11.7
+2019,Hackerbräu-Festzelt,11.8
+2019,Armbrustschützen,11.7
+2019,Augustiner,11.4
+2019,Paulanerbräu Winzerer Fähndl,11.8
+2019,Schottenhamel,11.75
+2019,Ochsenbraterei,11.5
+2019,Fischer Vroni,11.7
+2019,Schützen-Festzelt,11.8
+2019,Käfer Wies´n Schänke,NA
+2022,Marstall,13.7
+2022,Bräurosl,13.4
+2022,Löwenbräu,13.6
+2022,Hofbräu-Festzelt,13.6
+2022,Hackerbräu-Festzelt,13.4
+2022,Armbrustschützen,13.5
+2022,Augustiner,12.8
+2022,Paulanerbräu Winzerer Fähndl,13.5
+2022,Schottenhamel,13.6
+2022,Ochsenbraterei,13.5
+2022,Fischer Vroni,12.9
+2022,Schützen-Festzelt,13.7
+2022,Käfer Wies´n Schänke,13.7
+2023,Marstall,14.5
+2023,Bräurosl,14.3
+2023,Löwenbräu,14.5
+2023,Hofbräu-Festzelt,14.5
+2023,Hackerbräu-Festzelt,14.4
+2023,Armbrustschützen,14.4
+2023,Augustiner,13.5
+2023,Paulanerbräu Winzerer Fähndl,14.5
+2023,Schottenhamel,14.5
+2023,Ochsenbraterei,14.5
+2023,Fischer Vroni,13.7
+2023,Schützen-Festzelt,14.5
+2023,Käfer Wies´n Schänke,14.5
+2024,Marstall,15
+2024,Bräurosl,15.1
+2024,Löwenbräu,15
+2024,Hofbräu-Festzelt,14.95
+2024,Hackerbräu-Festzelt,15.1
+2024,Armbrustschützen,14.95
+2024,Augustiner,14.1
+2024,Paulanerbräu Winzerer Fähndl,15.1
+2024,Schottenhamel,14.95
+2024,Ochsenbraterei,14.9
+2024,Fischer Vroni,14.7
+2024,Schützen-Festzelt,14.9
+2024,Käfer Wies´n Schänke,14.9
+2025,Armbrustschützen-Festzelt,15.50
+2025,Augustiner-Festhalle,14.50
+2025,Bräurosl,15.40
+2025,Fischer-Vroni,15.40
+2025,Hacker-Festzelt,15.40
+2025,Hofbräuhaus-Festzelt,15.40
+2025,Käfer Wiesn Schänke,15.40
+2025,Löwenbräu-Festzelt,15.40
+2025,Marstall,15.40
+2025,Ochsenbraterei,15.35
+2025,Paulaner-Festzelt,15.40
+2025,Schottenhamel-Festhalle,15.40
+2025,Schützen-Festzelt,15.40
